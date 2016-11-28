@@ -1,2 +1,3 @@
 # nrf51-BLE-UART-fast-uart-bridge-
-It is an improved version of a standard demo project
+It is an improved version of a standard demo project for nRF51822.
+UART to BLE ransmission rate ramaticaly increases. 
